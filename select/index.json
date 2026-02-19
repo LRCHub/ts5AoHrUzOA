@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ねぇ、",
+  "base_artist": "SHISHAMO",
+  "createdAt": "2026-02-19T09:25:21.889811Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ねぇ、",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/01_ねぇ、_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ねぇ",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/02_ねぇ_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ねぇ",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/03_ねぇ_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ねぇ、…しようよっ!",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/04_ねぇ、...しようよっ!_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ねぇ、…しようよ!",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/05_ねぇ、...しようよ!_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ねぇ",
+      "artist": "navy&ivory",
+      "has_synced": false,
+      "path": "select/06_ねぇ_navy&ivory.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ねぇ",
+      "artist": "Fujita, Maiko",
+      "has_synced": true,
+      "path": "select/07_ねぇ_Fujita,_Maiko.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "「ねぇ、神様?」 (「Hey, God?」)",
+      "artist": "Oresama",
+      "has_synced": true,
+      "path": "select/08_「ねぇ、神様_」_(「Hey,_God_」)_Oresama.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ねぇ",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/09_ねぇ_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nee [ねぇ]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/10_Nee_[ねぇ]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "「ねぇ。」",
+      "artist": "ナノウ",
+      "has_synced": true,
+      "path": "select/11_「ねぇ。」_ナノウ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねぇ、",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/pl_01_ねぇ、_SHISHAMO.txt"
+    }
+  ]
+}
